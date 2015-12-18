@@ -1,0 +1,1 @@
+Sistema hecho en php y postgres, con dreamweaver, es un sistema con facil instalacion de modulos, cotizaciones/ presupuestos, ordenes de compras, compras, ventas, POS, recaudacion
